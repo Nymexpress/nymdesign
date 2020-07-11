@@ -1,0 +1,164 @@
+*{
+	margin: 0 auto;
+	padding: 0;
+	font-family: roboto;
+}
+.main_wrapper{
+	width: 95%;
+	border:none;
+}
+.head{
+	width:100%;
+	background-color: #affaf5;
+	min-height: 80px;
+}
+.head h1{
+	color: #eb5234;
+	padding: 20px;
+	margin: 0px 10px;
+	width: 30%;
+	float:left;
+}
+.head h1 a{
+	text-decoration:none;
+	color: #eb5234;
+	padding: 5px 20px;
+	border:1px solid black;
+}
+.head ul{
+	list-style:none;
+	color: black;
+	padding: 25px;
+	margin: 0px 5px;
+	font-size:16;
+	float:right;
+}
+.head ul li{
+	display:inline-block;
+	padding: 5px 15px;
+}
+.head ul li a{
+	text-decoration:none;
+	color:black;
+	padding: 5px 20px;
+	border:1px solid black;
+}
+.mid{
+	width:100%;
+	min-height: 523px;
+}
+.nav{
+	background-color: #cef5e5;
+	color:white;
+	width:19.5%;
+	float:left;
+	min-height: 523px;
+}
+.nav ul{
+	list-style:none;
+	color: black;
+	padding: 25px;
+	margin: 0px 5px;
+	font-size:20;
+	float:left;
+}
+.nav ul a{
+	text-decoration:none;
+	margin: 0px 15px;
+	color:black;
+}
+.mainbody{
+	background-color:#ebfff7;
+	width:80.5%;
+	float:right;
+	min-height:523px;
+}
+.firstpart{
+	background-image: url(../1.jpg);
+	width:100%;
+	float:left;
+	min-height:180px;
+}
+.secondpart{
+	background-color: #c7f2e1;
+	width:100%;
+	float:left;
+	min-height:200px;
+}
+.ab{
+	background-color: #a6e3cb;
+	width:33%;
+	float:left;
+	min-height:200px;
+}
+.ab h3{
+	padding: 15px 0px;
+	color:white;
+	text-align:center;
+}
+.ab p{
+	padding:0px 20px;
+	text-align:justify;
+	font-size:13;
+	color:white;
+}
+.bc{
+	background-color: #c7f2e1;
+	width:34%;
+	float:left;
+	min-height:200px;
+}
+.bc h3{
+	padding: 15px 0px;
+	color:black;
+	text-align:center;
+}
+.bc p{
+	padding:0px 20px;
+	text-align:justify;
+	font-size:13;
+	color:black;
+}
+.ca{
+	background-color: #a6e3cb;
+	width:33%;
+	float:left;
+	min-height:200px;
+}
+.ca h3{
+	padding: 15px 0px;
+	color:white;
+	text-align:center;
+}
+.ca p{
+	padding:0px 20px;
+	text-align:justify;
+	font-size:13;
+	color:white;
+}
+.thirdpart{
+	background-image: url(../2.jpg);
+	width:100%;
+	float:left;
+	min-height:143px;
+}
+.thirdpart h3{
+	padding: 15px 0px;
+	color:white;
+	text-align:center;
+}
+.thirdpart p{
+	padding:0px 20px;
+	text-align:justify;
+	font-size:13;
+	color:white;
+}
+.footer{
+	width 100%;
+	background-color: #031a3b;
+	min-height: 60px;
+}
+.footer marquee{
+	color:white;
+	padding: 20px 0px;
+}
